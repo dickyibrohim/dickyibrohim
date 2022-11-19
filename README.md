@@ -4,11 +4,11 @@
 - 📫 How to reach me: support@cleova.com
 
 ### Support Me
-Buy Me a Coffee at ko-fi.com <br>
-<a hrf="https://ko-fi.com/cleova"><img src="https://user-images.githubusercontent.com/31910468/202833210-f4a85c0e-6790-4882-be13-c62300af5dfe.png" />
-</a>
-<a hrf="https://paypal.me/cleovapay"><img src="https://user-images.githubusercontent.com/31910468/202841156-4e770c3f-7583-425c-9fed-e1ccfdac9a68.png" />
-</a>
+Buy Me a Coffee at ko-fi.com or PayPal<br>
+
+[![name](https://user-images.githubusercontent.com/31910468/202833210-f4a85c0e-6790-4882-be13-c62300af5dfe.png)](https://ko-fi.com/cleova)
+[![name](https://user-images.githubusercontent.com/31910468/202841156-4e770c3f-7583-425c-9fed-e1ccfdac9a68.png)](https://paypal.me/cleovapay)
+
 
 
 ### My Research
