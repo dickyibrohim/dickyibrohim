@@ -1,34 +1,19 @@
-### Hi there 👋
-- 💬 Ask me about AI, WordPress, and WooCommerce
-- 📫 How to reach me: support@cleova.com
+# Dicky Ibrohim
+Solution Architect • Senior Engineer • AI-Accelerated Delivery
 
-### Support Me
-Buy Me a Coffee at ko-fi.com or PayPal<br>
+I design secure, scalable systems with an architecture-first approach—business logic, database schemas, and reliability strategy—then orchestrate implementation using AI with strict quality gates (review, testing, observability, security).
 
-[![name](https://user-images.githubusercontent.com/31910468/202833210-f4a85c0e-6790-4882-be13-c62300af5dfe.png)](https://ko-fi.com/cleova)
-[![name](https://user-images.githubusercontent.com/31910468/202841156-4e770c3f-7583-425c-9fed-e1ccfdac9a68.png)](https://paypal.me/cleovapay)
+**Focus:** Rust, Go, Python, Next.js, Svelte, PostgreSQL, SQLx, WordPress, PHP, JavaScript  
+**Strengths:** System Design, Technical Validation, Delivery Leadership  
+**Principles:** stability, idempotency, cost-efficiency, security-by-default
 
+## What I Value
+- Clear architecture and measurable reliability
+- Secure, predictable delivery practices
+- Practical performance and cost efficiency
 
+Open to selective consulting engagements.
 
-### My Research
-#### Public
-#### Private
-You want access to my private research you can become <a href="https://github.com/sponsors/dickyibrohim/"> **my sponsors** </a>.
-
-Send me a message via Telegram/ WhatsApp: +6282311111198 or Discord dickyibrohim#4594 or Email: support@cleova.com
-
-
-<!--
-**dickyibrohim/dickyibrohim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Website: https://www.dickyibrohim.com
+- Email: hello@dickyibrohim.com
