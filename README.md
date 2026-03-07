@@ -1,5 +1,5 @@
 # Dicky Ibrohim
-Solution Architect • Senior Engineer • AI-Accelerated Delivery
+Technical Lead • Solution Architect • Senior Engineer • AI-Accelerated Delivery
 
 I design secure, scalable systems with an architecture-first approach—business logic, database schemas, and reliability strategy—then orchestrate implementation using AI with strict quality gates (review, testing, observability, security).
 
