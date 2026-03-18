@@ -1,6 +1,6 @@
 ### Hi, I'm Dicky Ibrohim
 
-# Principal Engineer & System Architect
+# Technical Lead & System Architect
 
 I architect and ship production systems where failure is not an option — financial platforms, security infrastructure, and high-throughput data pipelines.
 
