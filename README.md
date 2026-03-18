@@ -1,51 +1,71 @@
 ### Hi, I'm Dicky Ibrohim
+#### Technical Lead & System Architect
 
-# Technical Lead & System Architect
+I design and ship production systems for high-volume operational workflows, with a focus on scalability, reliability, security, and operator-friendly UX.
 
-I architect and ship production systems where failure is not an option — security infrastructure, scalable backends, and high-throughput data pipelines.
+My experience includes building and improving internal systems for ticketing, distribution operations, and bulk data workflows where performance and usability matter at the same time. I care about building systems that stay fast under load, remain clear for real operators, and hold up in real business environments.
 
-I treat AI as an engineering multiplier, not a shortcut. I define the architecture, threat model, and quality constraints — then use AI to accelerate implementation while enforcing strict validation gates: code review, test coverage, security audit, and observability. The result is principal-grade output at startup speed.
+I use AI as an engineering multiplier, not a substitute for judgment. I define the architecture, constraints, and quality standards first, then use AI to accelerate implementation, testing, and iteration with strict human validation.
 
-My work sits at the intersection of **system design**, **cryptographic security**, and **AI-accelerated delivery**. I don't just design architecture — I validate it through code, enforce it through automation, and measure it through observability.
+My work sits at the intersection of system design, secure engineering, data-heavy backend workflows, and reliable software delivery.
 
 ---
 
 #### What I Build
 
-```
-Secure Systems          Cryptographic field encryption, zero-trust architecture, audit-grade logging
-Scalable Backends       Event-driven services, distributed caching, database optimization
-Delivery Pipelines      CI/CD with quality gates, automated testing, progressive rollouts
-AI-Augmented Workflows  Architecture-driven AI orchestration with human validation at every gate
-```
+- **Operational Systems**
+  Internal tools for ticketing, workflow automation, and day-to-day business operations
+
+- **High-Volume Data Flows**
+  Bulk actions, mass update flows, and large-scale record processing designed for performance and control
+
+- **Scalable Backends**
+  Database-heavy systems, performance-conscious APIs, caching strategies, and data integrity controls
+
+- **UX for Real Operators**
+  Interfaces designed to stay clear, fast, and dependable in high-pressure workflows
+
+- **Secure Systems**
+  Field encryption, audit-friendly logging, controlled data access, and validation-first engineering
 
 #### Tech Stack
 
 | Domain | Technologies |
 |--------|-------------|
-| **Systems & Security** | Rust, Go, PostgreSQL, SQLx, AES-256-GCM, HKDF, HMAC |
-| **Backend & API** | Python, Next.js, Svelte, REST, GraphQL |
-| **AI & Automation** | LLM-augmented development, AI code review, automated quality gates |
+| **Systems & Backend** | Rust, Go, Python, PostgreSQL, SQLx |
+| **API & Application** | REST, GraphQL, Next.js, Svelte |
+| **Security & Data** | AES-256-GCM, HKDF, HMAC, PostgreSQL, Redis, SQLite |
 | **Infrastructure** | Docker, GitHub Actions, Terraform, Linux |
-| **Data & Storage** | PostgreSQL, Redis, SQLite, S3 |
+| **Engineering Workflow** | AI-assisted development, automated testing, CI/CD, quality gates |
 
 #### Engineering Principles
 
-- **Architecture-first** — schema design and failure modes before writing code
-- **AI as force multiplier** — human sets the standard, AI accelerates the execution
-- **Security-by-default** — encryption at rest, TLS enforced, secrets never logged
-- **Measurable reliability** — if it's not monitored, it doesn't exist
-- **Cost-conscious scaling** — right-sized infrastructure, no premature optimization
+- **Architecture first**
+  Design the data flow, constraints, and failure modes before implementation
+
+- **Usability matters**
+  A system is not finished if it works technically but slows down real operators
+
+- **Human-led, AI-accelerated**
+  AI improves execution speed, but engineering judgment stays with me
+
+- **Reliable by design**
+  Validation, observability, and maintainability are built in from the start
+
+- **Practical scaling**
+  Build for current load, prepare for growth, and avoid premature complexity
 
 ---
 
 #### Current Focus
 
-Building **[Enkastela](https://github.com/dickyibrohim/enkastela)** — application-level field encryption for PostgreSQL in Rust. AES-256-GCM, per-table key derivation, blind indexes for searchable encryption, GDPR crypto-shredding. 256 tests, full CI/CD, security audit pipeline.
+Building **[Enkastela](https://github.com/dickyibrohim/enkastela)**, an open-source field encryption library for PostgreSQL written in Rust.
+
+It brings application-level encryption to PostgreSQL workflows so the database never sees plaintext, with support for authenticated encryption, blind indexes for searchable encryption, key rotation, crypto-shredding, and strong automated validation through tests and CI.
 
 ---
 
-<sub>Open to selective consulting and architecture review engagements.</sub>
+Open to selective consulting and architecture review engagements.
 
 [![Website](https://img.shields.io/badge/-dickyibrohim.com-000?style=flat&logo=safari&logoColor=white)](https://www.dickyibrohim.com)
 [![Email](https://img.shields.io/badge/-hello@dickyibrohim.com-000?style=flat&logo=gmail&logoColor=white)](mailto:hello@dickyibrohim.com)
