@@ -2,7 +2,7 @@
 
 # Technical Lead & System Architect
 
-I architect and ship production systems where failure is not an option — financial platforms, security infrastructure, and high-throughput data pipelines.
+I architect and ship production systems where failure is not an option — security infrastructure, scalable backends, and high-throughput data pipelines.
 
 My work sits at the intersection of **system design**, **cryptographic security**, and **delivery engineering**. I don't just design architecture — I validate it through code, enforce it through automation, and measure it through observability.
 
