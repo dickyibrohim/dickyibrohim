@@ -3,7 +3,7 @@
 
 I design and ship production systems for high-volume operational workflows, with a focus on scalability, reliability, security, and operator-friendly UX.
 
-My experience includes building and improving internal systems for ticketing, distribution operations, and bulk data workflows where performance and usability matter at the same time. I care about building systems that stay fast under load, remain clear for real operators, and hold up in real business environments.
+My experience includes architecting client-facing systems for viral F&B ticketing, distribution operations, and bulk data workflows — the kind where thousands of users compete for limited tickets simultaneously and the system has to stay fast under extreme load. I care about building systems that handle traffic spikes without breaking, remain clear for real operators, and hold up in real business environments.
 
 I use AI as an engineering multiplier, not a substitute for judgment. I define the architecture, constraints, and quality standards first, then use AI to accelerate implementation, testing, and iteration with strict human validation.
 
@@ -13,8 +13,8 @@ My work sits at the intersection of system design, secure engineering, data-heav
 
 #### What I Build
 
-- **Operational Systems**
-  Internal tools for ticketing, workflow automation, and day-to-day business operations
+- **High-Traffic Ticketing Systems**
+  Viral F&B ticketing platforms built to handle massive concurrent demand — war-ticket scenarios where thousands compete in real time
 
 - **High-Volume Data Flows**
   Bulk actions, mass update flows, and large-scale record processing designed for performance and control
