@@ -35,7 +35,7 @@ My work sits at the intersection of system design, secure engineering, data-heav
 | **Systems & Backend** | Rust, Go, Python, PostgreSQL, SQLx |
 | **API & Application** | REST, GraphQL, Next.js, Svelte |
 | **Security & Data** | AES-256-GCM, HKDF, HMAC, PostgreSQL, Redis, SQLite |
-| **Infrastructure** | Docker, GitHub Actions, Terraform, Linux |
+| **Infrastructure** | Docker, GitHub Actions, Linux |
 | **Engineering Workflow** | AI-assisted development, automated testing, CI/CD, quality gates |
 
 #### Engineering Principles
